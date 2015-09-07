@@ -1,0 +1,10 @@
+/packages
+/MoviesGallery.Data/obj
+/MoviesGallery.Data/bin
+/MoviesGallery.Models/bin
+/MoviesGallery.Models/obj
+/MoviesGallery.Services/obj
+/MoviesGallery.Services/bin
+/MoviesGallery.Tests/bin
+/MoviesGallery.Tests/obj
+/MoviesGallery.v12.suo
